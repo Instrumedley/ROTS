@@ -1,0 +1,12 @@
+Package: ROTS
+Type: Package
+Title: Reproducibility-Optimized Test Statistic
+Version: 1.1.1
+Date: 2009-03-20
+Author: Laura Elo, Jukka Hiissa
+Maintainer: Laura Elo <laliel@utu.fi>
+Description: Calculates the Reproducibility-Optimized Test Statistic (ROTS)
+License: GPL (version 2 or later )
+LazyData: yes
+Depends: R(>= 2.6)
+Packaged: Fri Mar 20 11:59:07 2009; jukka
